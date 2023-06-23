@@ -1,0 +1,286 @@
+{
+  "ques": [
+    "Terkadang saya merasa sangat bersemangat dan sedih di waktu yang bersamaan",
+    "Saya merasa sangat optimis tentang kehidupan kemudian di lain waktu merasa tidak ada harapan",
+    "Terdapat waktu di mana saya sangat sangat senang bersosialisasi dan di waktu lain saya hanya ingin sendirian",
+    "Terkadang saya lebih banyak berbicara dan aktif dibanding waktu lainnya dan sebaliknya",
+    "Kualitas dan kuantitas pekerjaan saya bergantung pada suasana hati saya",
+    "Saya menemukan diri saya sulit untuk bersantai atau berelaksasi",
+    "Saya sering memiliki masalah perut seperti sakit atau keram perut dan juga pusing",
+    "Saya merasakan panik dan kewalahan dengan hal-hal di hidup saya",
+    "Saya pernah mengalami tremor pada tangan saya",
+    "Saya secara konstan khawatir terhadap sesuatu",
+    "Saya merasa sangat sedih saat ini dan saya sering menangis",
+    "Saya merasa tidak ada harapan, kecewa terhadap diri sendiri dan merasa saya adalah sebuah kegagalan",
+    "Jadwal tidur dan nafsu makan saya berubah-ubah",
+    "Saya berpikir untuk mengakhiri hidup saya",
+    "Saya sangat lelah sehingga saya merasa tidak memiliki energi untuk melakukan apapun",
+    "Mudah marah dan kesal oleh hal-hal yang cukup sepele",
+    "Cenderung bereaksi berlebihan terhadap suatu situasi",
+    "Saya merasa gemetar dan mulut kering",
+    "Merasa takut atau gugup tanpa alasan yang jelas",
+    "Gelisah sepanjang waktu dan sulit untuk tenang ketika ada yang membuat kesal",
+    "Merasa khawatir dengan kontaminasi (kotoran) dan membersihkan diri secara berlebihan (mencuci tangan)",
+    "Saya memeriksa berulang kali tombol lampu, keran air, kompor, kunci pintu",
+    "Saya menghitung, mengatur, dan merapikan (rak buku, pena, perabot, menggaruk tangan kiri dan tangan kanan)",
+    "Obsesi menyimpan benda dengan sempurna atau diatur dengan tepat",
+    "Terlalu khawatir tentang hal sangat buruk atau mengerikan yang terjadi"
+  ],
+  "options": [
+    [
+      "Tidak Pernah",
+      "Jarang",
+      "Kadang-Kadang",
+      "Sering"
+    ],
+    [
+      "Tidak Pernah",
+      "Jarang",
+      "Kadang-Kadang",
+      "Sering"
+    ],
+    [
+      "Tidak Pernah",
+      "Jarang",
+      "Kadang-Kadang",
+      "Sering"
+    ],
+    [
+      "Tidak Pernah",
+      "Jarang",
+      "Kadang-Kadang",
+      "Sering"
+    ],
+    [
+      "Tidak Pernah",
+      "Jarang",
+      "Kadang-Kadang",
+      "Sering"
+    ],
+    [
+      "Tidak Pernah",
+      "Jarang",
+      "Kadang-Kadang",
+      "Sering"
+    ],
+    [
+      "Tidak Pernah",
+      "Jarang",
+      "Kadang-Kadang",
+      "Sering"
+    ],
+    [
+      "Tidak Pernah",
+      "Jarang",
+      "Kadang-Kadang",
+      "Sering"
+    ],
+    [
+      "Tidak Pernah",
+      "Jarang",
+      "Kadang-Kadang",
+      "Sering"
+    ],
+    [
+      "Tidak Pernah",
+      "Jarang",
+      "Kadang-Kadang",
+      "Sering"
+    ],
+    [
+      "Tidak Pernah",
+      "Jarang",
+      "Kadang-Kadang",
+      "Sering"
+    ],
+    [
+      "Tidak Pernah",
+      "Jarang",
+      "Kadang-Kadang",
+      "Sering"
+    ],
+    [
+      "Tidak Pernah",
+      "Jarang",
+      "Kadang-Kadang",
+      "Sering"
+    ],
+    [
+      "Tidak Pernah",
+      "Jarang",
+      "Kadang-Kadang",
+      "Sering"
+    ],
+    [
+      "Tidak Pernah",
+      "Jarang",
+      "Kadang-Kadang",
+      "Sering"
+    ],
+    [
+      "Tidak Pernah",
+      "Jarang",
+      "Kadang-Kadang",
+      "Sering"
+    ],
+    [
+      "Tidak Pernah",
+      "Jarang",
+      "Kadang-Kadang",
+      "Sering"
+    ],
+    [
+      "Tidak Pernah",
+      "Jarang",
+      "Kadang-Kadang",
+      "Sering"
+    ],
+    [
+      "Tidak Pernah",
+      "Jarang",
+      "Kadang-Kadang",
+      "Sering"
+    ],
+    [
+      "Tidak Pernah",
+      "Jarang",
+      "Kadang-Kadang",
+      "Sering"
+    ],
+    [
+      "Tidak Pernah",
+      "Jarang",
+      "Kadang-Kadang",
+      "Sering"
+    ],
+    [
+      "Tidak Pernah",
+      "Jarang",
+      "Kadang-Kadang",
+      "Sering"
+    ],
+    [
+      "Tidak Pernah",
+      "Jarang",
+      "Kadang-Kadang",
+      "Sering"
+    ],
+    [
+      "Tidak Pernah",
+      "Jarang",
+      "Kadang-Kadang",
+      "Sering"
+    ],
+    [
+      "Tidak Pernah",
+      "Jarang",
+      "Kadang-Kadang",
+      "Sering"
+    ]
+  ],
+  "ans": [
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4
+  ],
+  "account": {
+    "admin": {
+      "password": "123",
+      "nama": "Kurni",
+      "usia": "17",
+      "gender": "Laki-laki"
+    },
+    "lita": {
+      "password": "kun",
+      "nama": "Litaa",
+      "usia": "19",
+      "gender": "P"
+    },
+    "iamiamyo": {
+      "password": "laki@123",
+      "nama": "Ilham",
+      "usia": "20",
+      "gender": "L"
+    }
+  },
+  "pengertian": {
+    "Stress": [
+      "Stres adalah perubahan reaksi tubuh ketika menghadapi ancaman, tekanan, atau situasi yang baru"
+    ],
+    "Depresi": [
+      "Depresi ditandai dengan rasa sedih yang berkepanjangan dan kehilangan minat terhadap kegiatan-kegiatan yang biasanya dilakukan dengan senang hati"
+    ],
+    "Anxiety": [
+      "Anxiety merupakan gangguan mental yang ditandai dengan khawatir, cemas, atau takut yang berlebihan dan dapat mengganggu Gangguan kesehatan mental",
+      "yang berlebihan yang ditandai dengan perasaan khawatir aktivitas sehari-hari. Contoh gangguan kecemasan yaitu serangan panik, gangguan obsesif-kompulsif",
+      "dan gangguan stres pascatrauma"
+    ],
+    "OCD": [
+      "OCD atau Obsessive compulsive disorder adalah gangguan mental yang mendorong penderitanya untuk melakukan tindakan tertentu secara berulang-ulang",
+      "untuk mengurangi kecemasan dalam pikirannya"
+    ],
+    "Bipolar": [
+      "Gangguan bipolar adalah gangguan mental yang menyebabkan perubahan suasana hati, energi, tingkat aktivitas, konsentrasi, serta kemampuan untuk",
+      "melakukan kegiatan sehari-hari. Penderita gangguan ini bisa merasa sangat bahagia kemudian berubah menjadi sangat sedih"
+    ]
+  },
+  "rekomen": {
+    "Stress": [
+      "1. Lakukan hobi yang Anda senangi",
+      "2. Bicarakan keluhan dengan seseorang yang dipercaya",
+      "3. Menjaga pola hidup sehat",
+      "4. Relaksasi dengan menenangkan pikiran",
+      "5. Meningkatkan ibadah"
+    ],
+    "Depresi": [
+      "1. Hadapi masalah anda",
+      "2. Lakukan hal yang menyenangkan dengan orang terdekat",
+      "3. Tidur yang cukup",
+      "4. Makan-makanan sehat",
+      "5. Lakukan olahraga sehingga tubuh menjadi lebih aktif"
+    ],
+    "Anxiety": [
+      "1. Menulis jurnal",
+      "2. Identifikasi trigger yang ada di sekitar anda",
+      "3. Hindari alkohol dan obat-obatan",
+      "4. Tidur yang cukup dan makan makanan sehat",
+      "5. Pelajari tentang gejala-gejala penyakit anda"
+    ],
+    "OCD": [
+      "1. Lakukan olahraga",
+      "2. Menerima kenyataan bahwa OCD mengganggu anda",
+      "3. Menunda hal-hal yang membuatmu obsesif",
+      "4. Mencoba teknik berelaksasi",
+      "5. Mempelajari fakta-fakta OCD"
+    ],
+    "Bipolar": [
+      "1. Memiliki pola hidup sehat",
+      "2. Membangun hubungan yang sehat",
+      "3. Menciptakan keseimbangan kehidupan kerja yang baik",
+      "4. Rutin ke psikolog atau psikiater",
+      "5. Mendengarkan musik, menulis jurnal, bermain permainan yang membuat tenang"
+    ]
+  }
+}
