@@ -1,0 +1,2 @@
+# Mental-Health-Quiz
+The Mental Health Quiz program is an application designed to assist users in assessing their mental well-being through a series of quiz questions. It is important to note that the quiz is not intended for self-diagnosis but rather provides an initial understanding and general advice regarding mental health. The program aims to enhance awareness and encourage users to seek professional help when necessary.
